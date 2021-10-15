@@ -1,0 +1,5 @@
+n=str(input())
+b=list(n.strip())
+c=list(map(int,b))
+mylist=sum(c)
+print(mylist)
