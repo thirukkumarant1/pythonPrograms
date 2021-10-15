@@ -1,5 +1,5 @@
 words=input("enter the words").split(",")
-a=input("enter the alphabets").split(",")
+a=input("enter the aAlpha").split(",")
 print(a)
 s=""
 s=s.join(a)
